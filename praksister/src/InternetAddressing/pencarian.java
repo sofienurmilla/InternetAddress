@@ -12,7 +12,7 @@ package InternetAddressing;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 
 public class pencarian {
     public static void main(String[] args) throws UnknownHostException, java.lang.SecurityException,IOException {
